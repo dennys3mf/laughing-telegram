@@ -1,0 +1,152 @@
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/appsettings.Development.json
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/appsettings.json
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/BookStoreApi
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/BookStoreApi.deps.json
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/BookStoreApi.runtimeconfig.json
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/BookStoreApi.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/BookStoreApi.pdb
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/AWSSDK.Core.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/AWSSDK.SecurityToken.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/DnsClient.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/MongoDB.Bson.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/MongoDB.Driver.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/MongoDB.Driver.Core.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/MongoDB.Libmongocrypt.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/SharpCompress.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/Snappier.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/ZstdSharp.dll
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/runtimes/linux/native/libmongocrypt.so
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/dev/Development/pruebas/BookStoreApi/bin/Debug/net8.0/runtimes/win/native/mongocrypt.dll
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.csproj.AssemblyReference.cache
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.AssemblyInfoInputs.cache
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.AssemblyInfo.cs
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.csproj.CoreCompileInputs.cache
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets/msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets/msbuild.build.BookStoreApi.props
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BookStoreApi.props
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BookStoreApi.props
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/scopedcss/bundle/BookStoreApi.styles.css
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.csproj.CopyComplete
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.dll
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/refint/BookStoreApi.dll
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.pdb
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/BookStoreApi.genruntimeconfig.cache
+/Users/dev/Development/pruebas/BookStoreApi/obj/Debug/net8.0/ref/BookStoreApi.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\appsettings.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.exe
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.deps.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.runtimeconfig.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.pdb
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\DnsClient.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Snappier.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.AssemblyInfo.cs
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.sourcelink.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreApi.props
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\scopedcss\bundle\BookStoreApi.styles.css
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStor.25E83A0D.Up2Date
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\refint\BookStoreApi.dll
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.pdb
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.genruntimeconfig.cache
+C:\Users\JairIAH\Desktop\TECSUP C-6\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\ref\BookStoreApi.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\appsettings.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.exe
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.deps.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.runtimeconfig.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\BookStoreApi.pdb
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\DnsClient.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Snappier.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.csproj.AssemblyReference.cache
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.AssemblyInfoInputs.cache
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.AssemblyInfo.cs
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.sourcelink.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.BookStoreApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.build.BookStoreApi.props
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BookStoreApi.props
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookStoreApi.props
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\scopedcss\bundle\BookStoreApi.styles.css
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStor.25E83A0D.Up2Date
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\refint\BookStoreApi.dll
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.pdb
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\BookStoreApi.genruntimeconfig.cache
+C:\Users\MI PC\Desktop\APP_RECOMENDACIONES\NET_CORE\apiPelicula\obj\Debug\net8.0\ref\BookStoreApi.dll
