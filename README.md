@@ -1,57 +1,48 @@
-# Laughing Telegram
+# Proyecto BookStoreApi
 
-Este proyecto es una aplicación de ejemplo que demuestra varias tecnologías y prácticas de desarrollo.
+Este proyecto consiste en una aplicación de recomendación de películas que utiliza una API construida con .NET, un backend para manejar visualizaciones y un frontend desarrollado con React Native.
 
-## Tecnologías Utilizadas
+## Componentes del Proyecto
 
-- React Native para el frontend.
-- .NET Core para el backend.
+### API .NET
 
-## Estructura del Proyecto
+La API .NET es el corazón del sistema de recomendación de películas. Está desarrollada utilizando .NET 8.0 y se encarga de gestionar las películas y las recomendaciones.
 
-El proyecto está dividido en dos partes principales:
-
-- `FRONTEND`: Contiene el código fuente de la aplicación React Native.
-- `NET_CORE`: Contiene el código fuente de la API en .NET Core.
-
-## Configuración
-
-### Frontend
-
-Para configurar el frontend, necesitarás tener Node.js y React Native CLI instalados. Luego, ejecuta:
+Para ejecutar la API, navegue al directorio de la API y ejecute:
 
 ```bash
-cd FRONTEND
-npm install
-Backend
-Para el backend, asegúrate de tener .NET Core SDK instalado. Luego, navega al directorio del proyecto y ejecuta:
-
-cd NET_CORE/apiPelicula
-dotnet restore
-Ejecución
-Frontend
-Para ejecutar la aplicación React Native, utiliza:
-
-cd FRONTEND
-npm start
-Backend
-Para iniciar la API .NET Core, ejecuta:
-
-cd NET_CORE/apiPelicula
 dotnet run
+La API estará disponible en http://localhost:5218/api/Peliculas.
+
+Backend
+El backend se encarga de manejar las visualizaciones de las películas. Está desarrollado en Node.js y se comunica con la API .NET para obtener información sobre las películas.
+
+Para iniciar el backend, navegue al directorio del backend y ejecute:
+
+npm install
+npm start
+El backend estará disponible en http://localhost:5000/api/visualizaciones.
+
+Frontend
+El frontend es una aplicación móvil desarrollada con React Native. Proporciona la interfaz de usuario para interactuar con el sistema de recomendación de películas.
+
+Para iniciar el frontend, asegúrese de tener instalado React Native y luego ejecute:
+
+npm install
+npm start
+Configuración
+Las URLs de la API .NET, el backend y el frontend están configuradas en el archivo App.js del frontend:
+
+const apiUrl = 'http://localhost:5218/api/Peliculas';
+const backendUrl = 'http://localhost:5000/api/visualizaciones';
+const recommendationUrl = 'http://localhost:5001/api/recomendacion';
+Asegúrese de que estas URLs coincidan con las configuraciones de su entorno local.
+
 Contribuir
-Si deseas contribuir a este proyecto, por favor considera enviar un pull request con tus cambios.
+Para contribuir al proyecto, por favor clone el repositorio, realice sus cambios y envíe un pull request con una descripción detallada de los cambios propuestos.
 
 Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Vea el archivo LICENSE para más detalles.
 
 
-4. **Guarda los cambios** en el archivo `README.md`.
-
-5. **Agrega el archivo al control de versiones** y súbelo a tu repositorio. Si estás usando Git, puedes hacerlo con los siguientes comandos:
-
-```bash
-git add README.md
-git commit -m "Añade README al proyecto"
-git push
-Este es un ejemplo básico y deberías personalizar el contenido del README para que se ajuste a las necesidades específicas de tu proyecto.
+Este `.readme` proporciona una visión general del proyecto, incluyendo cómo ejecutar cada componente y la configuración necesaria para que el sistema funcione correctamente.
